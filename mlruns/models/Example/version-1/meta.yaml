@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1695996629029
+current_stage: Production
+description: ''
+last_updated_timestamp: 1695996665585
+name: Example
+run_id: 9b74f3afe3a44d7292b10f5730127b20
+run_link: ''
+source: file:///Users/nachiketh/Desktop/author-repo/mlflow-demo-live/mlruns/0/9b74f3afe3a44d7292b10f5730127b20/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

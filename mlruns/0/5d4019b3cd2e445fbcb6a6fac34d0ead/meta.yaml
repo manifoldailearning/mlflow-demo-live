@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nachiketh/Desktop/author-repo/mlflow-demo-live/mlruns/0/5d4019b3cd2e445fbcb6a6fac34d0ead/artifacts
+end_time: 1695996265114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4019b3cd2e445fbcb6a6fac34d0ead
+run_name: lyrical-bird-671
+run_uuid: 5d4019b3cd2e445fbcb6a6fac34d0ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695996263965
+status: 3
+tags: []
+user_id: nachiketh
